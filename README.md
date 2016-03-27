@@ -2,8 +2,6 @@
 
 ## The following description is taken from original project.
 
-[![Join the chat at https://gitter.im/pawelkaczor/akka-ddd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pawelkaczor/akka-ddd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Reusable artifacts for building applications on top of Akka platform following a [CQRS/DDDD](http://abdullin.com/post/dddd-cqrs-and-other-enterprise-development-buzz-words)-based approach. 
 
 Core functionality originally developed as part of [DDD Leaven Akka](https://github.com/pawelkaczor/ddd-leaven-akka) project.
